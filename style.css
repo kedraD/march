@@ -1,0 +1,23 @@
+header{
+    background-color: violet;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: hotpink;
+}
+.tsts{
+   height: 450px;
+   weight: 450px;
+}
+p{
+    font-size: 20px;
+    color: rgb(192, 88, 114);
+}
+.lala{
+    height: 400px;
+    weight: 400px;
+}
+h2{
+    text-align: center;
+}
+footer{
+    background-color: darksalmon;
+}
